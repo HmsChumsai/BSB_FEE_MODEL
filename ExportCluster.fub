@@ -1,0 +1,32 @@
+--Select "Instruments"
+--Activate "Miscellaneous"
+--Activate "InstrumentClusters"
+--Select "InstrumentClusters"
+Select "Instrument Clusters"
+Activate "run"
+
+Change ( "nodeFilterdescription", "TFEX*" )
+
+Activate{ tooltip="Filter" }
+Activate{ tooltip="Export..." }
+Select "CSV"
+Select ","
+Change( "withbom", true )
+Change( "killnewline", true )
+Activate "ok"
+
+
+
+local file1 = GetFile()
+output_file=os.getenv("OUTPUT_TEMP_CLUSTER_CSV")
+file = io.open(output_file,"w")
+if file==nil then
+    io.output(output_file)
+    io.close()
+end
+file:write(file1.content)
+file:close()
+
+
+Activate "exit"
+

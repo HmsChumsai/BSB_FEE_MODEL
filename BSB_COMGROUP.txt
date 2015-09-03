@@ -1,0 +1,386 @@
+COMG0     BB3F      A2          00000.0000000.00EACOMP0                                   
+COMG0     BB3F      A2          00000.0000000.00FACOMP0                                   
+COMG0     BRENTF    A2          00000.0000000.00EACOMP0                                   
+COMG0     BRENTF    A2          00000.0000000.00FACOMP0                                   
+COMG0     GOLD10F   A2          00000.0000000.00EACOMP0                                   
+COMG0     GOLD10F   A2          00000.0000000.00FACOMP0                                   
+COMG0     GOLDF     A2          00000.0000000.00EACOMP0                                   
+COMG0     GOLDF     A2          00000.0000000.00FACOMP0                                   
+COMG0     SET50     A2          00000.0000000.00EACOMP0                                   
+COMG0     SET50     A2          00000.0000000.00FACOMP0                                   
+COMG0     SET50IO   A2          00000.0000000.00DACOMP0                                   
+COMG0     SET50IO   A2          00000.0000000.00FACOMP0                                   
+COMG0     SET50IO   A2          00000.0000000.00XACOMP0                                   
+COMG0     SILVERF   A2          00000.0000000.00EACOMP0                                   
+COMG0     SILVERF   A2          00000.0000000.00FACOMP0                                   
+COMG0     STOCKFT   A2          00000.0000000.00EACOMP0                                   
+COMG0     STOCKFT   A2          00000.0000000.00FACOMP0                                   
+COMG0     TBF6F     A2          00000.0000000.00EACOMP0                                   
+COMG0     TBF6F     A2          00000.0000000.00FACOMP0                                   
+COMG0     TGB5F     A2          00000.0000000.00EACOMP0                                   
+COMG0     TGB5F     A2          00000.0000000.00FACOMP0                                   
+COMG0     USDF      A2          00000.0000000.00EACOMP0                                   
+COMG0     USDF      A2          00000.0000000.00FACOMP0                                   
+COMG250_50BANKF     C2          00100.0000000.00EABANK_IC                                 
+COMG250_50BANKF     C2          00100.0000000.00FABANK_IC                                 
+COMG250_50BANKF     I2          00092.0000000.00EABANK_II                                 
+COMG250_50BANKF     I2          00092.0000000.00FABANK_II                                 
+COMG250_50BB3F      C2          00120.0000000.00EABB3FI_C                                 
+COMG250_50BB3F      C2          00120.0000000.00FABB3FI_C                                 
+COMG250_50BB3F      I2          00110.0000000.00EABB3FI_I                                 
+COMG250_50BB3F      I2          00110.0000000.00FABB3FI_I                                 
+COMG250_50BRENTF    A2          00065.0000000.00EABR_I_I                                  
+COMG250_50BRENTF    A2          00065.0000000.00FABR_I_I                                  
+COMG250_50BRENTF    C2          00070.0000000.00EABR_I_C                                  
+COMG250_50BRENTF    C2          00070.0000000.00FABR_I_C                                  
+COMG250_50BRENTF    I2          00065.0000000.00EABR_I_I                                  
+COMG250_50BRENTF    I2          00065.0000000.00FABR_I_I                                  
+COMG250_50COMMF     C2          00050.0000000.00EACOMM_IC                                 
+COMG250_50COMMF     C2          00050.0000000.00FACOMM_IC                                 
+COMG250_50COMMF     I2          00046.0000000.00EACOMM_II                                 
+COMG250_50COMMF     I2          00046.0000000.00FACOMM_II                                 
+COMG250_50ENERGF    C2          00050.0000000.00EAENERG_IC                                
+COMG250_50ENERGF    C2          00050.0000000.00FAENERG_IC                                
+COMG250_50ENERGF    I2          00046.0000000.00EAENERG_II                                
+COMG250_50ENERGF    I2          00046.0000000.00FAENERG_II                                
+COMG250_50FOODF     C2          00025.0000000.00EAFOOD_IC                                 
+COMG250_50FOODF     C2          00025.0000000.00FAFOOD_IC                                 
+COMG250_50FOODF     I2          00023.0000000.00EAFOOD_II                                 
+COMG250_50FOODF     I2          00023.0000000.00FAFOOD_II                                 
+COMG250_50GOLD10F   C2          00047.0000000.00EAGF10_FIX_C                              
+COMG250_50GOLD10F   C2          00047.0000000.00FAGF10_FIX_C                              
+COMG250_50GOLD10F   I2          00043.0000000.00EAGF10_FIX_I                              
+COMG250_50GOLD10F   I2          00043.0000000.00FAGF10_FIX_I                              
+COMG250_50GOLDF     C2          00235.0000000.00EAGF50_FIX_C                              
+COMG250_50GOLDF     C2          00235.0000000.00FAGF50_FIX_C                              
+COMG250_50GOLDF     I2          00215.0000000.00EAGF50_FIX_I                              
+COMG250_50GOLDF     I2          00215.0000000.00FAGF50_FIX_I                              
+COMG250_50ICTF      C2          00025.0000000.00EAICT_IC                                  
+COMG250_50ICTF      C2          00025.0000000.00FAICT_IC                                  
+COMG250_50ICTF      I2          00023.0000000.00EAICT_II                                  
+COMG250_50ICTF      I2          00023.0000000.00FAICT_II                                  
+COMG250_50SET50     C2          00037.0000000.00EAS50F_FIX_C                              
+COMG250_50SET50     C2          00037.0000000.00FAS50F_FIX_C                              
+COMG250_50SET50     I2          00034.0000000.00EAS50F_FIX_I                              
+COMG250_50SET50     I2          00034.0000000.00FAS50F_FIX_I                              
+COMG250_50SET50IO   A2          00010.0000000.00DADeny Op                                 
+COMG250_50SET50IO   A2          00010.0000004.00XAExe Opi                                 
+COMG250_50SET50IO   C2          00035.0000000.00FAS50O_FIX_C                              
+COMG250_50SET50IO   I2          00032.0000000.00FAS50O_FIX_I                              
+COMG250_50SILVERF   A2          00041.0000000.00EASVF_FIX_I                               
+COMG250_50SILVERF   A2          00041.0000000.00FASVF_FIX_I                               
+COMG250_50SILVERF   C2          00045.0000000.00EASVF_FIX_C                               
+COMG250_50SILVERF   C2          00045.0000000.00FASVF_FIX_C                               
+COMG250_50SILVERF   I2          00041.0000000.00EASVF_FIX_I                               
+COMG250_50SILVERF   I2          00041.0000000.00FASVF_FIX_I                               
+COMG250_50STOCKFT   C2          00000.0000000.10EAFX SFI_C                                
+COMG250_50STOCKFT   C3          00000.0000000.00EAFX SFI_C                                
+COMG250_50STOCKFT   C2          00000.0000000.10FAFX SFI_C                                
+COMG250_50STOCKFT   C3          00000.0000000.00FAFX SFI_C                                
+COMG250_50STOCKFT   I2          00000.0000000.09EAFX SFI_I                                
+COMG250_50STOCKFT   I3          00000.0000000.00EAFX SFI_I                                
+COMG250_50STOCKFT   I2          00000.0000000.09FAFX SFI_I                                
+COMG250_50STOCKFT   I3          00000.0000000.00FAFX SFI_I                                
+COMG250_50TBF6F     C2          00120.0000000.00EATBF6FI_C                                
+COMG250_50TBF6F     C2          00120.0000000.00FATBF6FI_C                                
+COMG250_50TBF6F     I2          00110.0000000.00EATBF6FI_I                                
+COMG250_50TBF6F     I2          00110.0000000.00FATBF6FI_I                                
+COMG250_50TGB5F     C2          00060.0000000.00EATGB5FI_C                                
+COMG250_50TGB5F     C2          00060.0000000.00FATGB5FI_C                                
+COMG250_50TGB5F     I2          00055.0000000.00EATGB5FI_I                                
+COMG250_50TGB5F     I2          00055.0000000.00FATGB5FI_I                                
+COMG250_50USDF      A2          00007.3000000.00EAUSD_I_I                                 
+COMG250_50USDF      A2          00007.3000000.00FAUSD_I_I                                 
+COMG250_50USDF      C2          00008.0000000.00EAUSD_I_M                                 
+COMG250_50USDF      C2          00008.0000000.00FAUSD_I_M                                 
+COMG250_50USDF      I2          00007.3000000.00EAUSD_I_I                                 
+COMG250_50USDF      I2          00007.3000000.00FAUSD_I_I                                 
+COMG300   SET50     A2          00300.0000000.00EACOMP300                                 
+COMG300   SET50     A2          00300.0000000.00FACOMP300                                 
+COMG500   SET50     A2          00500.0000000.00EACOMP500                                 
+COMG500   SET50     A2          00500.0000000.00FACOMP500                                 
+RETAIL-C  BANKF     C4BANK_RC   00000.0000000.00EABANK_RC                                 
+RETAIL-C  BANKF     C4BANK_RC   00000.0000000.00FABANK_RC                                 
+RETAIL-C  BANKF     I4BANK_RI   00000.0000000.00EABANK_RI                                 
+RETAIL-C  BANKF     I4BANK_RI   00000.0000000.00FABANK_RI                                 
+RETAIL-C  BB3F      C2          00120.0000000.00EABB3F_C                                  
+RETAIL-C  BB3F      C2          00120.0000000.00FABB3F_C                                  
+RETAIL-C  BB3F      I2          00110.0000000.00EABB3F_I                                  
+RETAIL-C  BB3F      I2          00110.0000000.00FABB3F_I                                  
+RETAIL-C  BRENTF    A4BRF_I2    00000.0000000.00EABR_R_I                                  
+RETAIL-C  BRENTF    A4BRF_I2    00000.0000000.00FABR_R_I                                  
+RETAIL-C  BRENTF    C4BRF_C2    00000.0000000.00EABR_R_C                                  
+RETAIL-C  BRENTF    C4BRF_C2    00000.0000000.00FABR_R_C                                  
+RETAIL-C  BRENTF    I4BRF_I2    00000.0000000.00EABR_R_I                                  
+RETAIL-C  BRENTF    I4BRF_I2    00000.0000000.00FABR_R_I                                  
+RETAIL-C  COMMF     C4COMM_RC   00000.0000000.00EACOMM_RC                                 
+RETAIL-C  COMMF     C4COMM_RC   00000.0000000.00FACOMM_RC                                 
+RETAIL-C  COMMF     I4COMM_RI   00000.0000000.00EACOMM_RI                                 
+RETAIL-C  COMMF     I4COMM_RI   00000.0000000.00FACOMM_RI                                 
+RETAIL-C  ENERGF    C4ENERG_RC  00000.0000000.00EAENERG_RC                                
+RETAIL-C  ENERGF    C4ENERG_RC  00000.0000000.00FAENERG_RC                                
+RETAIL-C  ENERGF    I4ENERG_RI  00000.0000000.00EAENERG_RI                                
+RETAIL-C  ENERGF    I4ENERG_RI  00000.0000000.00FAENERG_RI                                
+RETAIL-C  FOODF     C4FOOD_RC   00000.0000000.00EAFOOD_RC                                 
+RETAIL-C  FOODF     C4FOOD_RC   00000.0000000.00FAFOOD_RC                                 
+RETAIL-C  FOODF     I4FOOD_RI   00000.0000000.00EAFOOD_RI                                 
+RETAIL-C  FOODF     I4FOOD_RI   00000.0000000.00FAFOOD_RI                                 
+RETAIL-C  GOLD10F   C4GF10_C2   00000.0000000.00EAGF10_SLD_C                              
+RETAIL-C  GOLD10F   C4GF10_C2   00000.0000000.00FAGF10_SLD_C                              
+RETAIL-C  GOLD10F   I4GF10_I2   00000.0000000.00EAGF10_SLD_I                              
+RETAIL-C  GOLD10F   I4GF10_I2   00000.0000000.00FAGF10_SLD_I                              
+RETAIL-C  GOLDF     C4GF50_C2   00000.0000000.00EAGF50_SLD_C                              
+RETAIL-C  GOLDF     C4GF50_C2   00000.0000000.00FAGF50_SLD_C                              
+RETAIL-C  GOLDF     I4GF50_I2   00000.0000000.00EAGF50_SLD_I                              
+RETAIL-C  GOLDF     I4GF50_I2   00000.0000000.00FAGF50_SLD_I                              
+RETAIL-C  ICTF      C4ICT_RC    00000.0000000.00EAICT_RC                                  
+RETAIL-C  ICTF      C4ICT_RC    00000.0000000.00FAICT_RC                                  
+RETAIL-C  ICTF      I4ICT_RI    00000.0000000.00EAICT_RI                                  
+RETAIL-C  ICTF      I4ICT_RI    00000.0000000.00FAICT_RI                                  
+RETAIL-C  SET50     C4S50FM_C   00000.0000000.00EAS50F_SLD_C                              
+RETAIL-C  SET50     C4S50FM_C   00000.0000000.00FAS50F_SLD_C                              
+RETAIL-C  SET50     I4S50FM_I   00000.0000000.00EAS50F_SLD_I                              
+RETAIL-C  SET50     I4S50FM_I   00000.0000000.00FAS50F_SLD_I                              
+RETAIL-C  SET50IO   A2          00010.0000000.00DADeny Op                                 
+RETAIL-C  SET50IO   A2          00010.0000007.00XAExe Opr                                 
+RETAIL-C  SET50IO   C4S50O_C1   00000.0000000.00FAS50O_SLD_C                              
+RETAIL-C  SET50IO   I4S50O_I1   00000.0000000.00FAS50O_SLD_I                              
+RETAIL-C  SILVERF   A4SVF_I1    00000.0000000.00EASVF_SLD_I                               
+RETAIL-C  SILVERF   A4SVF_I1    00000.0000000.00FASVF_SLD_I                               
+RETAIL-C  SILVERF   C4SVF_C1    00000.0000000.00EASVF_SLD_C                               
+RETAIL-C  SILVERF   C4SVF_C1    00000.0000000.00FASVF_SLD_C                               
+RETAIL-C  SILVERF   I4SVF_I1    00000.0000000.00EASVF_SLD_I                               
+RETAIL-C  SILVERF   I4SVF_I1    00000.0000000.00FASVF_SLD_I                               
+RETAIL-C  STOCKFT   C2          00000.0000000.10EAFX SF_C                                 
+RETAIL-C  STOCKFT   C3          00000.0000000.00EAFX SF_C                                 
+RETAIL-C  STOCKFT   C2          00000.0000000.10FAFX SF_C                                 
+RETAIL-C  STOCKFT   C3          00000.0000000.00FAFX SF_C                                 
+RETAIL-C  STOCKFT   I2          00000.0000000.09EAFX SF_I                                 
+RETAIL-C  STOCKFT   I3          00000.0000000.00EAFX SF_I                                 
+RETAIL-C  STOCKFT   I2          00000.0000000.09FAFX SF_I                                 
+RETAIL-C  STOCKFT   I3          00000.0000000.00FAFX SF_I                                 
+RETAIL-C  TBF6F     C2          00120.0000000.00EATBF6F_C                                 
+RETAIL-C  TBF6F     C2          00120.0000000.00FATBF6F_C                                 
+RETAIL-C  TBF6F     I2          00110.0000000.00EATBF6F_I                                 
+RETAIL-C  TBF6F     I2          00110.0000000.00FATBF6F_I                                 
+RETAIL-C  TGB5F     C2          00060.0000000.00EATGB5F_C                                 
+RETAIL-C  TGB5F     C2          00060.0000000.00FATGB5F_C                                 
+RETAIL-C  TGB5F     I2          00055.0000000.00EATGB5F_I                                 
+RETAIL-C  TGB5F     I2          00055.0000000.00FATGB5F_I                                 
+RETAIL-C  USDF      A4USDR_I_50200000.0000000.00EAUSD_R_I                                 
+RETAIL-C  USDF      A4USDR_I_50200000.0000000.00FAUSD_R_I                                 
+RETAIL-C  USDF      C4USDR_C_50200000.0000000.00EAUSD_R_M                                 
+RETAIL-C  USDF      C4USDR_C_50200000.0000000.00FAUSD_R_M                                 
+RETAIL-C  USDF      I4USDR_I_50200000.0000000.00EAUSD_R_I                                 
+RETAIL-C  USDF      I4USDR_I_50200000.0000000.00FAUSD_R_I                                 
+RETAIL-P  BANKF     C4BANK_RC   00000.0000000.00EABANK_RC                                 
+RETAIL-P  BANKF     C4BANK_RC   00000.0000000.00FABANK_RC                                 
+RETAIL-P  BANKF     I4BANK_RI   00000.0000000.00EABANK_RI                                 
+RETAIL-P  BANKF     I4BANK_RI   00000.0000000.00FABANK_RI                                 
+RETAIL-P  BB3F      C2          00120.0000000.00EABB3F_C                                  
+RETAIL-P  BB3F      C2          00120.0000000.00FABB3F_C                                  
+RETAIL-P  BB3F      I2          00110.0000000.00EABB3F_I                                  
+RETAIL-P  BB3F      I2          00110.0000000.00FABB3F_I                                  
+RETAIL-P  BRENTF    A4BRF_I2    00000.0000000.00EABR_R_I                                  
+RETAIL-P  BRENTF    A4BRF_I2    00000.0000000.00FABR_R_I                                  
+RETAIL-P  BRENTF    C4BRF_C2    00000.0000000.00EABR_R_C                                  
+RETAIL-P  BRENTF    C4BRF_C2    00000.0000000.00FABR_R_C                                  
+RETAIL-P  BRENTF    I4BRF_I2    00000.0000000.00EABR_R_I                                  
+RETAIL-P  BRENTF    I4BRF_I2    00000.0000000.00FABR_R_I                                  
+RETAIL-P  COMMF     C4COMM_RC   00000.0000000.00EACOMM_RC                                 
+RETAIL-P  COMMF     C4COMM_RC   00000.0000000.00FACOMM_RC                                 
+RETAIL-P  COMMF     I4COMM_RI   00000.0000000.00EACOMM_RI                                 
+RETAIL-P  COMMF     I4COMM_RI   00000.0000000.00FACOMM_RI                                 
+RETAIL-P  ENERGF    C4ENERG_RC  00000.0000000.00EAENERG_RC                                
+RETAIL-P  ENERGF    C4ENERG_RC  00000.0000000.00FAENERG_RC                                
+RETAIL-P  ENERGF    I4ENERG_RI  00000.0000000.00EAENERG_RI                                
+RETAIL-P  ENERGF    I4ENERG_RI  00000.0000000.00FAENERG_RI                                
+RETAIL-P  FOODF     C4FOOD_RC   00000.0000000.00EAFOOD_RC                                 
+RETAIL-P  FOODF     C4FOOD_RC   00000.0000000.00FAFOOD_RC                                 
+RETAIL-P  FOODF     I4FOOD_RI   00000.0000000.00EAFOOD_RI                                 
+RETAIL-P  FOODF     I4FOOD_RI   00000.0000000.00FAFOOD_RI                                 
+RETAIL-P  GOLD10F   C4GF10_C2   00000.0000000.00EAGF10_SLD_C                              
+RETAIL-P  GOLD10F   C4GF10_C2   00000.0000000.00FAGF10_SLD_C                              
+RETAIL-P  GOLD10F   I4GF10_I2   00000.0000000.00EAGF10_SLD_I                              
+RETAIL-P  GOLD10F   I4GF10_I2   00000.0000000.00FAGF10_SLD_I                              
+RETAIL-P  GOLDF     C4GF50_C2   00000.0000000.00EAGF50_SLD_C                              
+RETAIL-P  GOLDF     C4GF50_C2   00000.0000000.00FAGF50_SLD_C                              
+RETAIL-P  GOLDF     I4GF50_I2   00000.0000000.00EAGF50_SLD_I                              
+RETAIL-P  GOLDF     I4GF50_I2   00000.0000000.00FAGF50_SLD_I                              
+RETAIL-P  ICTF      C4ICT_RC    00000.0000000.00EAICT_RC                                  
+RETAIL-P  ICTF      C4ICT_RC    00000.0000000.00FAICT_RC                                  
+RETAIL-P  ICTF      I4ICT_RI    00000.0000000.00EAICT_RI                                  
+RETAIL-P  ICTF      I4ICT_RI    00000.0000000.00FAICT_RI                                  
+RETAIL-P  SET50     C4S50FM_C   00000.0000000.00EAS50F_SLD_C                              
+RETAIL-P  SET50     C4S50FM_C   00000.0000000.00FAS50F_SLD_C                              
+RETAIL-P  SET50     I4S50FM_I   00000.0000000.00EAS50F_SLD_I                              
+RETAIL-P  SET50     I4S50FM_I   00000.0000000.00FAS50F_SLD_I                              
+RETAIL-P  SET50IO   A2          00010.0000000.00DADeny Op                                 
+RETAIL-P  SET50IO   A2          00010.0000007.00XAExe Opr                                 
+RETAIL-P  SET50IO   C4S50O_C1   00000.0000000.00FAS50O_SLD_C                              
+RETAIL-P  SET50IO   I4S50O_I1   00000.0000000.00FAS50O_SLD_I                              
+RETAIL-P  SILVERF   A4SVF_I1    00000.0000000.00EASVF_SLD_I                               
+RETAIL-P  SILVERF   A4SVF_I1    00000.0000000.00FASVF_SLD_I                               
+RETAIL-P  SILVERF   C4SVF_C1    00000.0000000.00EASVF_SLD_C                               
+RETAIL-P  SILVERF   C4SVF_C1    00000.0000000.00FASVF_SLD_C                               
+RETAIL-P  SILVERF   I4SVF_I1    00000.0000000.00EASVF_SLD_I                               
+RETAIL-P  SILVERF   I4SVF_I1    00000.0000000.00FASVF_SLD_I                               
+RETAIL-P  STOCKFT   C2          00000.0000000.10EAFX SF_C                                 
+RETAIL-P  STOCKFT   C3          00000.0000000.00EAFX SF_C                                 
+RETAIL-P  STOCKFT   C2          00000.0000000.10FAFX SF_C                                 
+RETAIL-P  STOCKFT   C3          00000.0000000.00FAFX SF_C                                 
+RETAIL-P  STOCKFT   I2          00000.0000000.09EAFX SF_I                                 
+RETAIL-P  STOCKFT   I3          00000.0000000.00EAFX SF_I                                 
+RETAIL-P  STOCKFT   I2          00000.0000000.09FAFX SF_I                                 
+RETAIL-P  STOCKFT   I3          00000.0000000.00FAFX SF_I                                 
+RETAIL-P  TBF6F     C2          00120.0000000.00EATBF6F_C                                 
+RETAIL-P  TBF6F     C2          00120.0000000.00FATBF6F_C                                 
+RETAIL-P  TBF6F     I2          00110.0000000.00EATBF6F_I                                 
+RETAIL-P  TBF6F     I2          00110.0000000.00FATBF6F_I                                 
+RETAIL-P  TGB5F     C2          00060.0000000.00EATGB5F_C                                 
+RETAIL-P  TGB5F     C2          00060.0000000.00FATGB5F_C                                 
+RETAIL-P  TGB5F     I2          00055.0000000.00EATGB5F_I                                 
+RETAIL-P  TGB5F     I2          00055.0000000.00FATGB5F_I                                 
+RETAIL-P  USDF      A4USDR_I_50200000.0000000.00EAUSD_R_I                                 
+RETAIL-P  USDF      A4USDR_I_50200000.0000000.00FAUSD_R_I                                 
+RETAIL-P  USDF      C4USDR_C_50200000.0000000.00EAUSD_R_M                                 
+RETAIL-P  USDF      C4USDR_C_50200000.0000000.00FAUSD_R_M                                 
+RETAIL-P  USDF      I4USDR_I_50200000.0000000.00EAUSD_R_I                                 
+RETAIL-P  USDF      I4USDR_I_50200000.0000000.00FAUSD_R_I                                 
+RETAIL-S1 BANKF     C4BANK_RC   00000.0000000.00EABANK_RC                                 
+RETAIL-S1 BANKF     C4BANK_RC   00000.0000000.00FABANK_RC                                 
+RETAIL-S1 BANKF     I4BANK_RI   00000.0000000.00EABANK_RI                                 
+RETAIL-S1 BANKF     I4BANK_RI   00000.0000000.00FABANK_RI                                 
+RETAIL-S1 BB3F      C2          00120.0000000.00EABB3F_C                                  
+RETAIL-S1 BB3F      C2          00120.0000000.00FABB3F_C                                  
+RETAIL-S1 BB3F      I2          00110.0000000.00EABB3F_I                                  
+RETAIL-S1 BB3F      I2          00110.0000000.00FABB3F_I                                  
+RETAIL-S1 BRENTF    C4BRF_C2    00000.0000000.00EABR_R_C                                  
+RETAIL-S1 BRENTF    C4BRF_C2    00000.0000000.00FABR_R_C                                  
+RETAIL-S1 BRENTF    I4BRF_I2    00000.0000000.00EABR_R_I                                  
+RETAIL-S1 BRENTF    I4BRF_I2    00000.0000000.00FABR_R_I                                  
+RETAIL-S1 COMMF     C4COMM_RC   00000.0000000.00EACOMM_RC                                 
+RETAIL-S1 COMMF     C4COMM_RC   00000.0000000.00FACOMM_RC                                 
+RETAIL-S1 COMMF     I4COMM_RI   00000.0000000.00EACOMM_RI                                 
+RETAIL-S1 COMMF     I4COMM_RI   00000.0000000.00FACOMM_RI                                 
+RETAIL-S1 ENERGF    C4ENERG_RC  00000.0000000.00EAENERG_RC                                
+RETAIL-S1 ENERGF    C4ENERG_RC  00000.0000000.00FAENERG_RC                                
+RETAIL-S1 ENERGF    I4ENERG_RI  00000.0000000.00EAENERG_RI                                
+RETAIL-S1 ENERGF    I4ENERG_RI  00000.0000000.00FAENERG_RI                                
+RETAIL-S1 FOODF     C4FOOD_RC   00000.0000000.00EAFOOD_RC                                 
+RETAIL-S1 FOODF     C4FOOD_RC   00000.0000000.00FAFOOD_RC                                 
+RETAIL-S1 FOODF     I4FOOD_RI   00000.0000000.00EAFOOD_RI                                 
+RETAIL-S1 FOODF     I4FOOD_RI   00000.0000000.00FAFOOD_RI                                 
+RETAIL-S1 GOLD10F   C4GF10_C2   00000.0000000.00EAGF10_SLD_C                              
+RETAIL-S1 GOLD10F   C4GF10_C2   00000.0000000.00FAGF10_SLD_C                              
+RETAIL-S1 GOLD10F   I4GF10_I2   00000.0000000.00EAGF10_SLD_I                              
+RETAIL-S1 GOLD10F   I4GF10_I2   00000.0000000.00FAGF10_SLD_I                              
+RETAIL-S1 GOLDF     C4GF50_C2   00000.0000000.00EAGF50_SLD_C                              
+RETAIL-S1 GOLDF     C4GF50_C2   00000.0000000.00FAGF50_SLD_C                              
+RETAIL-S1 GOLDF     I4GF50_I2   00000.0000000.00EAGF50_SLD_I                              
+RETAIL-S1 GOLDF     I4GF50_I2   00000.0000000.00FAGF50_SLD_I                              
+RETAIL-S1 ICTF      C4ICT_RC    00000.0000000.00EAICT_RC                                  
+RETAIL-S1 ICTF      C4ICT_RC    00000.0000000.00FAICT_RC                                  
+RETAIL-S1 ICTF      I4ICT_RI    00000.0000000.00EAICT_RI                                  
+RETAIL-S1 ICTF      I4ICT_RI    00000.0000000.00FAICT_RI                                  
+RETAIL-S1 SET50     C4S50F_SC2  00000.0000000.00EAS50F_SLSC1                              
+RETAIL-S1 SET50     C4S50F_SC2  00000.0000000.00FAS50F_SLSC1                              
+RETAIL-S1 SET50     I4S50F_SI2  00000.0000000.00EAS50F_SLSI1                              
+RETAIL-S1 SET50     I4S50F_SI2  00000.0000000.00FAS50F_SLSI1                              
+RETAIL-S1 SET50IO   A2          00010.0000000.00DADeny Op                                 
+RETAIL-S1 SET50IO   A2          00010.0000007.00XAExe Opr                                 
+RETAIL-S1 SET50IO   C4S50O_C1   00000.0000000.00FAS50O_SLD_C                              
+RETAIL-S1 SET50IO   I4S50O_I1   00000.0000000.00FAS50O_SLD_I                              
+RETAIL-S1 SILVERF   C4SVF_C1    00000.0000000.00EASVF_SLD_C                               
+RETAIL-S1 SILVERF   C4SVF_C1    00000.0000000.00FASVF_SLD_C                               
+RETAIL-S1 SILVERF   I4SVF_I1    00000.0000000.00EASVF_SLD_I                               
+RETAIL-S1 SILVERF   I4SVF_I1    00000.0000000.00FASVF_SLD_I                               
+RETAIL-S1 STOCKFT   C2          00000.0000000.10EAFX SF_C                                 
+RETAIL-S1 STOCKFT   C3          00000.0000000.00EAFX SF_C                                 
+RETAIL-S1 STOCKFT   C2          00000.0000000.10FAFX SF_C                                 
+RETAIL-S1 STOCKFT   C3          00000.0000000.00FAFX SF_C                                 
+RETAIL-S1 STOCKFT   I2          00000.0000000.09EAFX SF_I                                 
+RETAIL-S1 STOCKFT   I3          00000.0000000.00EAFX SF_I                                 
+RETAIL-S1 STOCKFT   I2          00000.0000000.09FAFX SF_I                                 
+RETAIL-S1 STOCKFT   I3          00000.0000000.00FAFX SF_I                                 
+RETAIL-S1 TBF6F     C2          00120.0000000.00EATBF6F_C                                 
+RETAIL-S1 TBF6F     C2          00120.0000000.00FATBF6F_C                                 
+RETAIL-S1 TBF6F     I2          00110.0000000.00EATBF6F_I                                 
+RETAIL-S1 TBF6F     I2          00110.0000000.00FATBF6F_I                                 
+RETAIL-S1 TGB5F     C2          00060.0000000.00EATGB5F_C                                 
+RETAIL-S1 TGB5F     C2          00060.0000000.00FATGB5F_C                                 
+RETAIL-S1 TGB5F     I2          00055.0000000.00EATGB5F_I                                 
+RETAIL-S1 TGB5F     I2          00055.0000000.00FATGB5F_I                                 
+RETAIL-S1 USDF      C4USDR_C_50200000.0000000.00EAUSD_R_M                                 
+RETAIL-S1 USDF      C4USDR_C_50200000.0000000.00FAUSD_R_M                                 
+RETAIL-S1 USDF      I4USDR_I_50200000.0000000.00EAUSD_R_I                                 
+RETAIL-S1 USDF      I4USDR_I_50200000.0000000.00FAUSD_R_I                                 
+RETAIL_SF1BANKF     C4BANK_RC   00000.0000000.00EABANK_RC                                 
+RETAIL_SF1BANKF     C4BANK_RC   00000.0000000.00FABANK_RC                                 
+RETAIL_SF1BANKF     I4BANK_RI   00000.0000000.00EABANK_RI                                 
+RETAIL_SF1BANKF     I4BANK_RI   00000.0000000.00FABANK_RI                                 
+RETAIL_SF1BB3F      C2          00120.0000000.00EABB3F_C                                  
+RETAIL_SF1BB3F      C2          00120.0000000.00FABB3F_C                                  
+RETAIL_SF1BB3F      I2          00110.0000000.00EABB3F_I                                  
+RETAIL_SF1BB3F      I2          00110.0000000.00FABB3F_I                                  
+RETAIL_SF1BRENTF    C4BRF_C2    00000.0000000.00EABR_R_C                                  
+RETAIL_SF1BRENTF    C4BRF_C2    00000.0000000.00FABR_R_C                                  
+RETAIL_SF1BRENTF    I4BRF_I2    00000.0000000.00EABR_R_I                                  
+RETAIL_SF1BRENTF    I4BRF_I2    00000.0000000.00FABR_R_I                                  
+RETAIL_SF1COMMF     C4COMM_RC   00000.0000000.00EACOMM_RC                                 
+RETAIL_SF1COMMF     C4COMM_RC   00000.0000000.00FACOMM_RC                                 
+RETAIL_SF1COMMF     I4COMM_RI   00000.0000000.00EACOMM_RI                                 
+RETAIL_SF1COMMF     I4COMM_RI   00000.0000000.00FACOMM_RI                                 
+RETAIL_SF1ENERGF    C4ENERG_RC  00000.0000000.00EAENERG_RC                                
+RETAIL_SF1ENERGF    C4ENERG_RC  00000.0000000.00FAENERG_RC                                
+RETAIL_SF1ENERGF    I4ENERG_RI  00000.0000000.00EAENERG_RI                                
+RETAIL_SF1ENERGF    I4ENERG_RI  00000.0000000.00FAENERG_RI                                
+RETAIL_SF1FOODF     C4FOOD_RC   00000.0000000.00EAFOOD_RC                                 
+RETAIL_SF1FOODF     C4FOOD_RC   00000.0000000.00FAFOOD_RC                                 
+RETAIL_SF1FOODF     I4FOOD_RI   00000.0000000.00EAFOOD_RI                                 
+RETAIL_SF1FOODF     I4FOOD_RI   00000.0000000.00FAFOOD_RI                                 
+RETAIL_SF1GOLD10F   C4GF10_C2   00000.0000000.00EAGF10_SLD_C                              
+RETAIL_SF1GOLD10F   C4GF10_C2   00000.0000000.00FAGF10_SLD_C                              
+RETAIL_SF1GOLD10F   I4GF10_I2   00000.0000000.00EAGF10_SLD_I                              
+RETAIL_SF1GOLD10F   I4GF10_I2   00000.0000000.00FAGF10_SLD_I                              
+RETAIL_SF1GOLDF     C4GF50_C2   00000.0000000.00EAGF50_SLD_C                              
+RETAIL_SF1GOLDF     C4GF50_C2   00000.0000000.00FAGF50_SLD_C                              
+RETAIL_SF1GOLDF     I4GF50_I2   00000.0000000.00EAGF50_SLD_I                              
+RETAIL_SF1GOLDF     I4GF50_I2   00000.0000000.00FAGF50_SLD_I                              
+RETAIL_SF1ICTF      C4ICT_RC    00000.0000000.00EAICT_RC                                  
+RETAIL_SF1ICTF      C4ICT_RC    00000.0000000.00FAICT_RC                                  
+RETAIL_SF1ICTF      I4ICT_RI    00000.0000000.00EAICT_RI                                  
+RETAIL_SF1ICTF      I4ICT_RI    00000.0000000.00FAICT_RI                                  
+RETAIL_SF1SET50     C2          00047.0000000.00EAS50FMFIXSC                              
+RETAIL_SF1SET50     C2          00047.0000000.00FAS50FMFIXSC                              
+RETAIL_SF1SET50     I2          00043.0000000.00EAS50FMFIXSI                              
+RETAIL_SF1SET50     I2          00043.0000000.00FAS50FMFIXSI                              
+RETAIL_SF1SET50IO   A2          00010.0000000.00DADeny Op                                 
+RETAIL_SF1SET50IO   A2          00010.0000007.00XAExe Opr                                 
+RETAIL_SF1SET50IO   C4S50O_C1   00000.0000000.00FAS50O_SLD_C                              
+RETAIL_SF1SET50IO   I4S50O_I1   00000.0000000.00FAS50O_SLD_I                              
+RETAIL_SF1SILVERF   C4SVF_C1    00000.0000000.00EASVF_SLD_C                               
+RETAIL_SF1SILVERF   C4SVF_C1    00000.0000000.00FASVF_SLD_C                               
+RETAIL_SF1SILVERF   I4SVF_I1    00000.0000000.00EASVF_SLD_I                               
+RETAIL_SF1SILVERF   I4SVF_I1    00000.0000000.00FASVF_SLD_I                               
+RETAIL_SF1STOCKFT   C2          00000.0000000.10EAFX SF_C                                 
+RETAIL_SF1STOCKFT   C3          00000.0000000.00EAFX SF_C                                 
+RETAIL_SF1STOCKFT   C2          00000.0000000.10FAFX SF_C                                 
+RETAIL_SF1STOCKFT   C3          00000.0000000.00FAFX SF_C                                 
+RETAIL_SF1STOCKFT   I2          00000.0000000.09EAFX SF_I                                 
+RETAIL_SF1STOCKFT   I3          00000.0000000.00EAFX SF_I                                 
+RETAIL_SF1STOCKFT   I2          00000.0000000.09FAFX SF_I                                 
+RETAIL_SF1STOCKFT   I3          00000.0000000.00FAFX SF_I                                 
+RETAIL_SF1TBF6F     C2          00120.0000000.00EATBF6F_C                                 
+RETAIL_SF1TBF6F     C2          00120.0000000.00FATBF6F_C                                 
+RETAIL_SF1TBF6F     I2          00110.0000000.00EATBF6F_I                                 
+RETAIL_SF1TBF6F     I2          00110.0000000.00FATBF6F_I                                 
+RETAIL_SF1TGB5F     C2          00060.0000000.00EATGB5F_C                                 
+RETAIL_SF1TGB5F     C2          00060.0000000.00FATGB5F_C                                 
+RETAIL_SF1TGB5F     I2          00055.0000000.00EATGB5F_I                                 
+RETAIL_SF1TGB5F     I2          00055.0000000.00FATGB5F_I                                 
+RETAIL_SF1USDF      C4USDR_C_50200000.0000000.00EAUSD_R_M                                 
+RETAIL_SF1USDF      C4USDR_C_50200000.0000000.00FAUSD_R_M                                 
+RETAIL_SF1USDF      I4USDR_I_50200000.0000000.00EAUSD_R_I                                 
+RETAIL_SF1USDF      I4USDR_I_50200000.0000000.00FAUSD_R_I                                 
+
