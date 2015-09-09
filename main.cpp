@@ -23,11 +23,11 @@ std::tr1::unordered_map<std::string, std::string> my_cachce; //Cache Upper/Lower
 std::string GetEnv(const std::string & var) {
 	const char * val = ::getenv(var.c_str());
 	if (val == 0) {
-		std::cout << "GetEnv=0" << std::endl ;
+		std::cout << "GetEnv=0" << std::endl;
 		return "";
 	}
 	else {
-		std::cout << "GetEnv : " << val << std::endl ;
+		std::cout << "GetEnv : " << val << std::endl;
 		return val;
 	}
 }
@@ -150,8 +150,8 @@ void dump_to_stdout(const char* pFilename)
 }
 void gen_tierfee_xml(std::vector<FeeScaleXML*> & feeScale)
 {
-	// Make xml: <?xml ..><Hello>World</Hello>
-	std::tr1::unordered_map<std::string, std::string> gen_tier_cache;
+	std::cout << "gen_tierfee_xml" << '\n';
+	std::cout << "0. size: " << feeScale.size() << '\n';
 	TiXmlDocument doc;
 	TiXmlDeclaration * decl = new TiXmlDeclaration("1.0", "", "");
 	TiXmlElement * element = new TiXmlElement("import");
@@ -166,89 +166,83 @@ void gen_tierfee_xml(std::vector<FeeScaleXML*> & feeScale)
 			iter != feeScale.end(); iter++) {
 
 			FeeScaleXML *feescale = *iter;
-			std::tr1::unordered_map<std::string, std::string>::const_iterator got = gen_tier_cache.find(feescale->name);
-			if (got == gen_tier_cache.end()) {
+			
 
-				TiXmlElement * feescales = new TiXmlElement("feescale");
-				element->LinkEndChild(feescales);
-				TiXmlElement * name = new TiXmlElement("name");
-				TiXmlElement * currency = new TiXmlElement("currency");
-				TiXmlElement * baseValue = new TiXmlElement("baseValue");
-				TiXmlElement * calculationBase = new TiXmlElement("calculationBase");
+			TiXmlElement * feescales = new TiXmlElement("feescale");
+			element->LinkEndChild(feescales);
+			TiXmlElement * name = new TiXmlElement("name");
+			TiXmlElement * currency = new TiXmlElement("currency");
+			TiXmlElement * baseValue = new TiXmlElement("baseValue");
+			TiXmlElement * calculationBase = new TiXmlElement("calculationBase");
 
-				TiXmlElement * calculationMethod = new TiXmlElement("calculationMethod");
-				TiXmlElement * orderEstimationMode = new TiXmlElement("orderEstimationMode");
-				TiXmlElement * overlappingIntervals = new TiXmlElement("overlappingIntervals");
-				TiXmlElement * FeeAggregationScheme = new TiXmlElement("FeeAggregationScheme");
-
+			TiXmlElement * calculationMethod = new TiXmlElement("calculationMethod");
+			TiXmlElement * orderEstimationMode = new TiXmlElement("orderEstimationMode");
+			TiXmlElement * overlappingIntervals = new TiXmlElement("overlappingIntervals");
+			TiXmlElement * FeeAggregationScheme = new TiXmlElement("FeeAggregationScheme");
 
 
-				feescales->LinkEndChild(name);
-				feescales->LinkEndChild(currency);
-				feescales->LinkEndChild(baseValue);
-				feescales->LinkEndChild(calculationBase);
-				feescales->LinkEndChild(calculationMethod);
-				feescales->LinkEndChild(orderEstimationMode);
-				feescales->LinkEndChild(overlappingIntervals);
-				feescales->LinkEndChild(FeeAggregationScheme);
+			feescales->LinkEndChild(name);
+			feescales->LinkEndChild(currency);
+			feescales->LinkEndChild(baseValue);
+			feescales->LinkEndChild(calculationBase);
+			feescales->LinkEndChild(calculationMethod);
+			feescales->LinkEndChild(orderEstimationMode);
+			feescales->LinkEndChild(overlappingIntervals);
+				
 
 
 				//feescales->LinkEndChild(name);
-				name->LinkEndChild(new TiXmlText((feescale->name).c_str()));
-				currency->LinkEndChild(new TiXmlText((feescale->currency).c_str()));
-				baseValue->LinkEndChild(new TiXmlText((feescale->baseValue).c_str()));
-				calculationBase->LinkEndChild(new TiXmlText((feescale->calculationBase).c_str()));
-				calculationMethod->LinkEndChild(new TiXmlText((feescale->calculationMethod).c_str()));
-				orderEstimationMode->LinkEndChild(new TiXmlText((feescale->orderEstimationMode).c_str()));
-				overlappingIntervals->LinkEndChild(new TiXmlText((feescale->overlappingIntervals).c_str()));
+			name->LinkEndChild(new TiXmlText((feescale->name).c_str()));
+			currency->LinkEndChild(new TiXmlText((feescale->currency).c_str()));
+			baseValue->LinkEndChild(new TiXmlText((feescale->baseValue).c_str()));
+			calculationBase->LinkEndChild(new TiXmlText((feescale->calculationBase).c_str()));
+			calculationMethod->LinkEndChild(new TiXmlText((feescale->calculationMethod).c_str()));
+			orderEstimationMode->LinkEndChild(new TiXmlText((feescale->orderEstimationMode).c_str()));
+			overlappingIntervals->LinkEndChild(new TiXmlText((feescale->overlappingIntervals).c_str()));
+				//Case A: No Fee Aggre.
+			if (feescale->FeeAggregationScheme.c_str() == "") {
+				feescales->LinkEndChild(FeeAggregationScheme);
 				FeeAggregationScheme->LinkEndChild(new TiXmlText((feescale->FeeAggregationScheme).c_str()));
-				for (std::vector <interval> ::iterator interval_it = feescale->intervals.begin();
-					interval_it != feescale->intervals.end();
-					interval_it++) {
-
-					TiXmlElement * intervals = new TiXmlElement("intervals");
-					feescales->LinkEndChild(intervals);
-					interval feeInterval = *interval_it;
-
-					//-----------------------------------------------------
-					TiXmlElement * value = new TiXmlElement("value");
-					value->LinkEndChild(new TiXmlText(feeInterval.value.c_str()));
-					//-----------------------------------------------------
-					TiXmlElement * lowerLimit = new TiXmlElement("lowerLimit");
-
-					if (feeInterval.lowerLimit == "true") {
-						lowerLimit->SetAttribute("nil", feeInterval.lowerLimit.c_str());
-					}
-					else {
-						lowerLimit->LinkEndChild(new TiXmlText(feeInterval.lowerLimit.c_str()));
-					}
-					//-----------------------------------------------------
-					TiXmlElement * upperLimit = new TiXmlElement("upperLimit");
-
-					if (feeInterval.upperLimit == "true") {
-						upperLimit->SetAttribute("nil", feeInterval.upperLimit.c_str());
-					}
-					else {
-						upperLimit->LinkEndChild(new TiXmlText(feeInterval.upperLimit.c_str()));
-					}
-					//-----------------------------------------------------
-					intervals->LinkEndChild(lowerLimit);
-					intervals->LinkEndChild(upperLimit);
-					intervals->LinkEndChild(value);
-
-					std::pair<std::string, std::string> cache(feescale->name, "exist");
-					gen_tier_cache.insert(cache);
-				}
+			}
 				
-			}
-			else {
+			for (std::vector <interval> ::iterator interval_it = feescale->intervals.begin();
+				interval_it != feescale->intervals.end();
+				interval_it++) {
+
+				TiXmlElement * intervals = new TiXmlElement("intervals");
+				feescales->LinkEndChild(intervals);
+				interval feeInterval = *interval_it;
+
+					//-----------------------------------------------------
+				TiXmlElement * value = new TiXmlElement("value");
+				value->LinkEndChild(new TiXmlText(feeInterval.value.c_str()));
+					//-----------------------------------------------------
+				TiXmlElement * lowerLimit = new TiXmlElement("lowerLimit");
+
+				if (feeInterval.lowerLimit == "true") {
+					lowerLimit->SetAttribute("nil", feeInterval.lowerLimit.c_str());
+				}
+				else {
+					lowerLimit->LinkEndChild(new TiXmlText(feeInterval.lowerLimit.c_str()));
+				}
+					//-----------------------------------------------------
+				TiXmlElement * upperLimit = new TiXmlElement("upperLimit");
+
+				if (feeInterval.upperLimit == "true") {
+					upperLimit->SetAttribute("nil", feeInterval.upperLimit.c_str());
+				}
+				else {
+					upperLimit->LinkEndChild(new TiXmlText(feeInterval.upperLimit.c_str()));
+				}
+					//-----------------------------------------------------
+				intervals->LinkEndChild(lowerLimit);
+				intervals->LinkEndChild(upperLimit);
+				intervals->LinkEndChild(value);
+
 
 			}
-
-
 
 		}
-
 		doc.SaveFile("BSBFeeScale.xml");
 	}
 }
@@ -266,10 +260,10 @@ void gen_catfee_xml(std::vector<FeeCatXML*>& feeCat)
 	doc.LinkEndChild(element);
 
 	{
-		
+
 		for (std::vector < FeeCatXML* >::iterator iter = feeCat.begin();
 			iter != feeCat.end(); iter++) {
-			
+
 			FeeCatXML *feeCat = *iter;
 			//Check Duplicate
 			std::tr1::unordered_map<std::string, std::string>::const_iterator got = gen_cat_cache.find(feeCat->id);
@@ -289,7 +283,7 @@ void gen_catfee_xml(std::vector<FeeCatXML*>& feeCat)
 				gen_cat_cache.insert(cache);
 			}
 
-			
+
 		}
 
 
@@ -298,13 +292,17 @@ void gen_catfee_xml(std::vector<FeeCatXML*>& feeCat)
 }
 
 
-void printOutput(std::string tradeType, std::string tradingChannel, FeeModel * model, std::string const &line, int &sequence_number, std::ofstream & fee_model_file) {
+void printOutput(std::string tradeType, std::string tradingChannel, FeeModel * model, std::string const &line, int sequence_number, std::ofstream & fee_model_file) {
 
 	std::string rule_name(line, 0, 10);
 	std::stringstream ss;
+	
+	std::string rule_name1 = line.substr(0, 10).erase(line.substr(0, 10).find_last_not_of(" \n\r\t") + 1);
+	std::string rule_name2 = line.substr(10, 10).erase(line.substr(10, 10).find_last_not_of(" \n\r\t") + 1);
+
 	model->Transactiontype = "EEE";
 	model->fee_model = "COMM & DC BROKER";
-	model->rule_name = "TFEX" + line.substr(0, 10) + line.substr(10, 10) + tradingChannel;
+	model->rule_name = "TFEX " + rule_name1 + " " + rule_name2 + " " + tradingChannel + " " + model->trade_type;
 	ss << sequence_number;
 	model->sequence_number = ss.str();//std::to_string(sequence_number);
 	model->exchange_id = "TFEX";
@@ -356,9 +354,9 @@ void printOutput(std::string tradeType, std::string tradingChannel, FeeModel * m
 	fee_model_file << ","; // multi_account_alocatation
 	fee_model_file << model->fee_class_abbreviation << ","; // fee_class_abbreviation
 	fee_model_file << ","; // fee_class_name
-	fee_model_file << model->fee_model << std::endl; // fee_scale,
+	fee_model_file << model->fee_scale << std::endl; // fee_scale,
 
-	sequence_number += 5;
+	
 
 }
 
@@ -372,7 +370,7 @@ FeeModel * procFeeModel(std::string const &line, std::ofstream & fee_model_file)
 
 	FeeModel * model = new FeeModel();
 	int sequence_number = 5;
-	
+
 	std::string channel_code(line, 20, 1);
 	std::string buy_sell(line, 49, 1);
 
@@ -381,7 +379,7 @@ FeeModel * procFeeModel(std::string const &line, std::ofstream & fee_model_file)
 	else if (buy_sell == "S") model->buysell = "S";
 
 	//=============== Read Cluster File ========================
-	
+
 	std::string cluster_line;
 	std::ifstream infile;
 	std::string OUTPUT_CLUSTER_NAME_TXT = getenv("OUTPUT_CLUSTER_NAME_TXT");
@@ -391,9 +389,9 @@ FeeModel * procFeeModel(std::string const &line, std::ofstream & fee_model_file)
 	while (std::getline(infile, cluster_line))
 	{
 		if (line.empty())  continue;
-		
+
 		model->instrument_cluster_name = cluster_line;
-		std::cout << "model->instrument_cluster_name " << model->instrument_cluster_name << std::endl;
+		//std::cout << "model->instrument_cluster_name " << model->instrument_cluster_name << std::endl;
 		if (channel_code == "A") {
 
 			printOutput("TaTrans", "DECIDE", model, line, sequence_number, fee_model_file);
@@ -424,7 +422,7 @@ FeeModel * procFeeModel(std::string const &line, std::ofstream & fee_model_file)
 
 		}
 
-
+		sequence_number += 5;
 	}
 
 	return NULL;
@@ -449,31 +447,41 @@ FeeCatXML * procFeeCat(std::string &line)
 
 FeeScaleXML * procFeeScale(std::string &line)
 {
+	std::string val = "0";
 	FeeScaleXML * xml = new FeeScaleXML();
 	interval feeInterval;
 	feeInterval.lowerLimit = "true";
 	feeInterval.upperLimit = "true";
 	std::string name(line, 50, 9);
-	std::string firstPos(line, 32, 7);
-	std::string secondPos(line, 32, 7);
+	std::string firstVal(line, 32, 8);
+	std::string secondVal(line, 40,8);
+
+	if (firstVal != "00000.00") {
+		val = firstVal;
+	}
+	if (secondVal != "00000.00") {
+		val = secondVal;
+	}
+	feeInterval.value = val;
 	//std::cout << line.substr(10, 7) << std::endl;
-	xml->name = name;
+	xml->name = name.erase(name.find_last_not_of(" \n\r\t") + 1);
 	xml->currency = "THB";
 	xml->baseValue = "F";
-	xml->calculationBase = "E";
 	xml->calculationMethod = "L";
 	xml->overlappingIntervals = "N";
-	xml->FeeAggregationScheme = "Client Aggregation";
 	xml->intervals.push_back(feeInterval);
-
-	if (line.substr(10, 7) == "STOCKFT") { //Single Stock
+	bool filter = line.substr(21,1) == "2" &&  line.substr(48,1) == "F";
+	if (line.substr(10, 7) == "STOCKFT" && filter) { //Single Stock
 		//std::cout << "Single Stock" << std::endl ;
+		xml->FeeAggregationScheme = "";
+		xml->calculationBase = "E";
 		xml->orderEstimationMode = "S";
 		return xml;
 	}
-	else if (line.substr(21, 1) == "2") {
+	else if (filter) {
 		//std::cout << "NON SINGLE STOCK : NO TIER" << std::endl ;
-
+		xml->FeeAggregationScheme = "Client_Aggregation";
+		xml->calculationBase = "A";
 		xml->orderEstimationMode = "F";
 		return xml;
 
@@ -486,12 +494,11 @@ FeeScaleXML * procFeeScale(std::string &line)
 void procFeeScaleFromTier(std::string &line, std::vector<FeeScaleXML*> &FeeSclaeList)
 {
 	FeeScaleXML * xml = new FeeScaleXML();
-
+	//std::cout << "procFeeScaleFromTier" << line << '\n';
 
 	std::string name(line, 0, 10);
 	name.erase(name.find_last_not_of(" \n\r\t") + 1);
-	std::string firstPos(line, 32, 7);
-	std::string secondPos(line, 32, 7);
+
 	std::string lowerLimit(line, 10, 5);
 	std::string upperLimit(line, 15, 5);
 
@@ -535,7 +542,7 @@ void procFeeScaleFromTier(std::string &line, std::vector<FeeScaleXML*> &FeeSclae
 			xml->intervals.push_back(feeInterval);
 			xml->FeeAggregationScheme = "Client Aggregation";
 
-
+		
 			FeeSclaeList.push_back(xml);
 		}
 		else { // Fee existed ,adds more tier
@@ -562,12 +569,22 @@ void ReadBSBTIER(std::vector<FeeScaleXML*> &feeScaleList){
 	//FeeScaleXML * feeScale = new FeeScaleXML();
 	while (std::getline(infile, line))
 	{
+		if (infile.eof()) {
+			//If last line,modify upperlimit of last feeScale to nill
+		}
 		if (line.empty())  continue;
 		//if EOF
 		//feeScaleList.push_back(procFeeScaleFromTier(line)); //generate FeeScale XML
 		//line = line.erase(line.find_last_not_of(" \n\r\t") + 1);// Trim Space
 		procFeeScaleFromTier(line, feeScaleList);
 	}
+
+	std::cout << "EOF" << std::endl; 
+	std::vector<FeeScaleXML*>::iterator it = feeScaleList.end();
+	it--;
+	std::vector<interval>::iterator interval_it = (*it)->intervals.end();
+	interval_it--;
+	interval_it->upperLimit = "true";
 
 }
 
@@ -590,6 +607,7 @@ void ReadBSBCOMGROUP(std::vector<FeeCatXML*> &feeCatList, std::vector<FeeScaleXM
 
 	fee_model_file.open(BSB_FEEMODEL_RULE_FILE.c_str());
 
+	std::cout << "About to Read " << BSB_FEEMODEL_RULE_FILE<< std::endl;
 	fee_model_file << header << "\n";
 	//------------- gen FeeModel--------
 
@@ -604,10 +622,11 @@ void ReadBSBCOMGROUP(std::vector<FeeCatXML*> &feeCatList, std::vector<FeeScaleXM
 
 		//Generate FeeScale XML (Type C.)
 		FeeScale = procFeeScale(line);
-		if (FeeScale != NULL) feeScaleList.push_back(FeeScale);
-
-		//Generate FeeModel List
-		procFeeModel(line,fee_model_file);
+		if (FeeScale != NULL) {
+		
+			feeScaleList.push_back(FeeScale);
+		}
+		procFeeModel(line, fee_model_file);
 
 	}
 
@@ -626,7 +645,7 @@ int main(int argc, char* argv[])
 	std::vector<FeeModel *> feeModelList;
 	std::vector<bool*> gen_cat_cache;
 
-	ReadBSBCOMGROUP(feeCatList, feeScaleList,feeModelList);
+	ReadBSBCOMGROUP(feeCatList, feeScaleList, feeModelList);
 	gen_catfee_xml(feeCatList);
 
 	std::cout << feeScaleList.size() << std::endl;

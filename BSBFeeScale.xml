@@ -1,0 +1,2977 @@
+<?xml version="1.0" ?>
+<import mode="synchronize">
+    <feescale>
+        <name>COMP0</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>0</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMP0</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>0</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMP0</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>0</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMP0</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>0</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMP0</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>0</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMP0</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>0</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMP0</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>0</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMP0</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>E</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>S</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>0</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMP0</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>0</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMP0</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>0</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMP0</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>0</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BANK_IC</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00100.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BANK_II</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00092.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BB3FI_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00120.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BB3FI_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00110.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BR_I_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00065.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BR_I_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00070.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BR_I_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00065.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMM_IC</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00050.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMM_II</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00046.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>ENERG_IC</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00050.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>ENERG_II</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00046.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FOOD_IC</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00025.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FOOD_II</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00023.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF10_FIX_</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00047.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF10_FIX_</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00043.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF50_FIX_</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00235.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF50_FIX_</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00215.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>ICT_IC</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00025.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>ICT_II</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00023.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50F_FIX_</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00037.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50F_FIX_</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00034.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50O_FIX_</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00035.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50O_FIX_</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00032.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>SVF_FIX_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00041.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>SVF_FIX_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00045.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>SVF_FIX_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00041.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FX SFI_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>E</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>S</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00000.10</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FX SFI_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>E</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>S</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00000.09</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TBF6FI_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00120.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TBF6FI_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00110.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TGB5FI_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00060.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TGB5FI_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00055.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>USD_I_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00007.30</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>USD_I_M</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00008.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>USD_I_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00007.30</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMP300</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00300.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMP500</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00500.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BB3F_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00120.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BB3F_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00110.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FX SF_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>E</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>S</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00000.10</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FX SF_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>E</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>S</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00000.09</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TBF6F_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00120.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TBF6F_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00110.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TGB5F_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00060.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TGB5F_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00055.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BB3F_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00120.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BB3F_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00110.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FX SF_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>E</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>S</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00000.10</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FX SF_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>E</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>S</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00000.09</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TBF6F_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00120.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TBF6F_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00110.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TGB5F_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00060.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TGB5F_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00055.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BB3F_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00120.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BB3F_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00110.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FX SF_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>E</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>S</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00000.10</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FX SF_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>E</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>S</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00000.09</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TBF6F_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00120.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TBF6F_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00110.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TGB5F_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00060.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TGB5F_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00055.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BB3F_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00120.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BB3F_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00110.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50FMFIXS</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00047.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50FMFIXS</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00043.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FX SF_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>E</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>S</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00000.10</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FX SF_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>E</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>S</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00000.09</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TBF6F_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00120.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TBF6F_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00110.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TGB5F_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00060.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>TGB5F_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit nil="true" />
+            <value>00055.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BANK_RC</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00010</upperLimit>
+            <value>00200.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00010</lowerLimit>
+            <upperLimit>00040</upperLimit>
+            <value>00160.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00040</lowerLimit>
+            <upperLimit>00200</upperLimit>
+            <value>00120.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00200</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00100.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BANK_RC50</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00010</upperLimit>
+            <value>00190.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00010</lowerLimit>
+            <upperLimit>00040</upperLimit>
+            <value>00150.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00040</lowerLimit>
+            <upperLimit>00200</upperLimit>
+            <value>00110.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00200</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00090.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BANK_RI</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00010</upperLimit>
+            <value>00182.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00010</lowerLimit>
+            <upperLimit>00040</upperLimit>
+            <value>00146.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00040</lowerLimit>
+            <upperLimit>00200</upperLimit>
+            <value>00110.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00200</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00092.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BANK_RI50</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00010</upperLimit>
+            <value>00172.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00010</lowerLimit>
+            <upperLimit>00040</upperLimit>
+            <value>00136.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00040</lowerLimit>
+            <upperLimit>00200</upperLimit>
+            <value>00100.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00200</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00082.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BRF_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00100.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00080.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00060.50</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BRF_C1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00108.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00088.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00068.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BRF_C2</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00110.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00090.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00070.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BRF_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00091.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00073.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00055.50</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BRF_I1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00099.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00081.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00063.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>BRF_I2</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00101.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00083.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00065.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMM_RC</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00100.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00080.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00500</upperLimit>
+            <value>00060.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00500</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00050.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMM_RC50</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00095.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00075.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00500</upperLimit>
+            <value>00055.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00500</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00045.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMM_RI</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00091.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00073.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00500</upperLimit>
+            <value>00055.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00500</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00046.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>COMM_RI50</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00086.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00068.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00500</upperLimit>
+            <value>00050.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00500</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00041.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>ENERG_RC</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00100.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00080.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00500</upperLimit>
+            <value>00060.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00500</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00050.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>ENERG_RC50</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00095.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00075.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00500</upperLimit>
+            <value>00055.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00500</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00045.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>ENERG_RI</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00091.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00073.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00500</upperLimit>
+            <value>00055.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00500</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00046.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>ENERG_RI50</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00086.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00068.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00500</upperLimit>
+            <value>00050.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00500</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00041.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FOOD_RC</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00050</upperLimit>
+            <value>00050.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00050</lowerLimit>
+            <upperLimit>00200</upperLimit>
+            <value>00040.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00200</lowerLimit>
+            <upperLimit>01000</upperLimit>
+            <value>00030.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>01000</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00025.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FOOD_RC50</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00050</upperLimit>
+            <value>00047.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00050</lowerLimit>
+            <upperLimit>00200</upperLimit>
+            <value>00037.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00200</lowerLimit>
+            <upperLimit>01000</upperLimit>
+            <value>00027.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>01000</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00022.50</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FOOD_RI</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00050</upperLimit>
+            <value>00045.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00050</lowerLimit>
+            <upperLimit>00200</upperLimit>
+            <value>00036.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00200</lowerLimit>
+            <upperLimit>01000</upperLimit>
+            <value>00027.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>01000</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00023.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>FOOD_RI50</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00050</upperLimit>
+            <value>00043.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00050</lowerLimit>
+            <upperLimit>00200</upperLimit>
+            <value>00034.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00200</lowerLimit>
+            <upperLimit>01000</upperLimit>
+            <value>00025.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>01000</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00020.50</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>G25</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00487.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00387.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00287.50</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>G50</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00475.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00375.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00275.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00500.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00400.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00300.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF10</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00100.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00080.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00060.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF10_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00100.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00080.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00060.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF10_C1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00100.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00080.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00250</upperLimit>
+            <value>00060.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00250</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00050.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF10_C2</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00097.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00077.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00250</upperLimit>
+            <value>00057.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00250</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00047.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF10_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00091.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00073.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00055.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF10_I1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00091.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00073.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00250</upperLimit>
+            <value>00055.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00250</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00046.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF10_I2</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00088.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00070.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00250</upperLimit>
+            <value>00052.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00250</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00043.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF50_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00500.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00400.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00300.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF50_C1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00500.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00400.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit>00050</upperLimit>
+            <value>00300.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00050</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00250.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF50_C2</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00485.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00385.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit>00050</upperLimit>
+            <value>00285.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00050</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00235.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF50_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00455.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00365.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00275.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF50_I1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00455.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00365.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit>00050</upperLimit>
+            <value>00275.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00050</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00230.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>GF50_I2</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00440.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00350.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit>00050</upperLimit>
+            <value>00260.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00050</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00215.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>ICT_RC</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00050</upperLimit>
+            <value>00050.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00050</lowerLimit>
+            <upperLimit>00200</upperLimit>
+            <value>00040.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00200</lowerLimit>
+            <upperLimit>01000</upperLimit>
+            <value>00030.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>01000</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00025.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>ICT_RC50</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00050</upperLimit>
+            <value>00047.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00050</lowerLimit>
+            <upperLimit>00200</upperLimit>
+            <value>00037.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00200</lowerLimit>
+            <upperLimit>01000</upperLimit>
+            <value>00027.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>01000</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00022.50</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>ICT_RI</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00050</upperLimit>
+            <value>00045.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00050</lowerLimit>
+            <upperLimit>00200</upperLimit>
+            <value>00036.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00200</lowerLimit>
+            <upperLimit>01000</upperLimit>
+            <value>00027.50</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>01000</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00023.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>ICT_RI50</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00050</upperLimit>
+            <value>00043.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00050</lowerLimit>
+            <upperLimit>00200</upperLimit>
+            <value>00034.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00200</lowerLimit>
+            <upperLimit>01000</upperLimit>
+            <value>00025.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>01000</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00020.50</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50FM_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00087.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00067.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00500</upperLimit>
+            <value>00047.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00500</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00037.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50FM_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00079.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00061.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00500</upperLimit>
+            <value>00043.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00500</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00034.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50F_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00450.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00350.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00250.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50F_C1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00450.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00350.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00250.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00200.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50F_C2</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00435.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00335.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00235.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00185.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50F_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00410.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00320.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00230.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50F_I1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00410.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00320.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00230.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00185.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50F_I2</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00395.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00305.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00215.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00170.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50F_SC1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00020</upperLimit>
+            <value>00290.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00235.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00185.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50F_SC2</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00100</upperLimit>
+            <value>00058.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00500</upperLimit>
+            <value>00047.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00500</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00037.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50F_SI1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00020</upperLimit>
+            <value>00250.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00215.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00170.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50F_SI2</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00100</upperLimit>
+            <value>00050.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00500</upperLimit>
+            <value>00043.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00500</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00034.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50O_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00085.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00065.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00045.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50O_C1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00085.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00065.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00500</upperLimit>
+            <value>00045.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00500</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00035.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50O_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00077.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00059.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00041.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>S50O_I1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00077.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00059.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00500</upperLimit>
+            <value>00041.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00500</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00032.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>SP1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00085.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00065.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00045.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>SPF</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00005</upperLimit>
+            <value>00450.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00005</lowerLimit>
+            <upperLimit>00020</upperLimit>
+            <value>00350.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00020</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00250.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>SPO</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00090.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00070.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00050.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>SVF_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00095.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00075.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00055.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>SVF_C1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00095.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00075.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00250</upperLimit>
+            <value>00055.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00250</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00045.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>SVF_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00086.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00068.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00050.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>SVF_I1</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>00025</upperLimit>
+            <value>00086.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00025</lowerLimit>
+            <upperLimit>00100</upperLimit>
+            <value>00068.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00100</lowerLimit>
+            <upperLimit>00250</upperLimit>
+            <value>00050.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>00250</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00041.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>USDR_C</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>02000</upperLimit>
+            <value>00012.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>02000</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00009.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>USDR_C_502</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>02000</upperLimit>
+            <value>00011.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>02000</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00008.00</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>USDR_I</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>02000</upperLimit>
+            <value>00011.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>02000</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00008.30</value>
+        </intervals>
+    </feescale>
+    <feescale>
+        <name>USDR_I_502</name>
+        <currency>THB</currency>
+        <baseValue>F</baseValue>
+        <calculationBase>A</calculationBase>
+        <calculationMethod>L</calculationMethod>
+        <orderEstimationMode>F</orderEstimationMode>
+        <overlappingIntervals>N</overlappingIntervals>
+        <intervals>
+            <lowerLimit nil="true" />
+            <upperLimit>02000</upperLimit>
+            <value>00010.00</value>
+        </intervals>
+        <intervals>
+            <lowerLimit>02000</lowerLimit>
+            <upperLimit nil="true" />
+            <value>00007.30</value>
+        </intervals>
+    </feescale>
+</import>

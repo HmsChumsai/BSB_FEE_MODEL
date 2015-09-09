@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<import mode="synchronize">
+    <clientfeecat>
+        <id>COMG0</id>
+        <name>COMG0</name>
+    </clientfeecat>
+    <clientfeecat>
+        <id>COMG250_50</id>
+        <name>COMG250_50</name>
+    </clientfeecat>
+    <clientfeecat>
+        <id>COMG300</id>
+        <name>COMG300</name>
+    </clientfeecat>
+    <clientfeecat>
+        <id>COMG500</id>
+        <name>COMG500</name>
+    </clientfeecat>
+    <clientfeecat>
+        <id>RETAIL-C</id>
+        <name>RETAIL-C</name>
+    </clientfeecat>
+    <clientfeecat>
+        <id>RETAIL-P</id>
+        <name>RETAIL-P</name>
+    </clientfeecat>
+    <clientfeecat>
+        <id>RETAIL-S1</id>
+        <name>RETAIL-S1</name>
+    </clientfeecat>
+    <clientfeecat>
+        <id>RETAIL_SF1</id>
+        <name>RETAIL_SF1</name>
+    </clientfeecat>
+</import>

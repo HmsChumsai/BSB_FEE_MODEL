@@ -24,7 +24,9 @@ public:
 	std::string calculationMethod;
 	std::string orderEstimationMode;
 	std::string overlappingIntervals;
-	std::vector<interval> intervals;
 	std::string FeeAggregationScheme;
+	std::vector<interval> intervals;
+	std::string value;
 };
+
 #endif
